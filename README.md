@@ -1,21 +1,18 @@
-# Car Rental Management System
+# 🚗 Car Rental Management System
 
-## Overview
-
-A web-based car rental management system developed as a
-university project using Node.js, Express.js, MySQL and EJS.
+> Full-stack web-based car rental management system developed using Node.js, Express.js, MySQL and JavaScript.
 
 ## Features
 
 - Car management
 - Customer management
 - Rental management
-- CRUD operations
+- Create, update and delete records
 - REST API
-- MySQL relational database
+- MySQL database integration
 - Client-side form validation
 - Server-side routing
-- EJS-based dynamic pages
+- Dynamic web pages
 
 ## Technologies
 
@@ -27,43 +24,19 @@ university project using Node.js, Express.js, MySQL and EJS.
 - HTML
 - CSS
 - REST API
+- CRUD
 - Git
 
-## Database
+## Documentation
 
-The application uses a relational MySQL database containing:
+The complete project report is available in the docs folder.
 
-- Customers
-- Cars
-- Rentals
+## Screenshots
 
-## API
+<img width="490" height="372" alt="image" src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" />
 
-### Cars
+## Author
 
-GET /api/car
-POST /api/car
-PUT /api/car/:id
-DELETE /api/car/:id
+Furkan Taha Ünal
 
-### Customers
-
-GET /api/customer
-POST /api/customer
-PUT /api/customer/:id
-DELETE /api/customer/:id
-
-### Rentals
-
-GET /api/rent
-POST /api/rent
-PUT /api/rent/:id
-DELETE /api/rent/:id
-
-## Installation
-
-npm install
-
-## Running the application
-
-npm start
+Computer Engineer | Software Developer
