@@ -31,9 +31,7 @@
 
 The complete project report is available in the docs folder.
 
-## Screenshots
 
-<img width="490" height="372" alt="image" src="https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" />
 
 ## Author
 
